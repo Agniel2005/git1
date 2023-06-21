@@ -1,0 +1,27 @@
+h1, h2 {
+    font-size: 100px;
+}
+
+h1, h2, p, nav, label {
+    text-align: center;
+    color: rgb(221, 60, 60);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p, li, label {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+a:visited, a:link {
+    color: rgb(13, 84, 238);
+}
+
+body {
+    background: url('../img/background_dark.jpg');
+}
